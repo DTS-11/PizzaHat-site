@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+
+html {
+    scroll-behavior: smooth;
+}
+
 * {
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
