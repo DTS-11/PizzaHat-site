@@ -1,4 +1,4 @@
-<script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js">
     import logo from '$lib/assets/bot-logo.png';
 </script>
 
@@ -20,6 +20,6 @@
             </div>
         </div>
 
-        <img src={logo} alt="logo" draggable="false" class="m-5 w-24 h-24 md:w-60 md:h-60 md:ml-0 md:mr-10 rounded-full order-1 md:order-2">
+        <img src={logo} alt="logo" draggable="false" class="animate-bounce m-5 w-24 h-24 md:w-60 md:h-60 md:ml-0 md:mr-10 rounded-full order-1 md:order-2">
     </section>
 </main>
