@@ -11,8 +11,12 @@
             </p>
 
             <div class="ml-4 md:ml-14">
-                <button class="rounded-lg p-2 md:p-4 mt-2 md:mt-5 md:m-2 lg:m-2 bg-indigo-800">Add to server</button>
-                <button class="rounded-lg p-2 md:p-4 mt-2 md:mt-5 m-2 lg:m-2 bg-zinc-800">Join server</button>
+                <button class="rounded-lg p-2 md:p-4 mt-2 md:mt-5 md:m-2 lg:m-2 bg-indigo-900 hover:bg-indigo-700" >
+                    <a href="https://dsc.gg/pizza-invite" target="_blank">Add to server</a>
+                </button>
+                <button class="rounded-lg p-2 md:p-4 mt-2 md:mt-5 m-2 lg:m-2 bg-zinc-800 hover:bg-zinc-700">
+                    <a href="https://discord.gg/WhNVDTF" target="_blank">Join server</a>
+                </button>
             </div>
         </div>
 
