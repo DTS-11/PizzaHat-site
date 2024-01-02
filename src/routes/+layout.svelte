@@ -5,7 +5,9 @@
     import { onMount } from "svelte";
 
     onMount(() => {
-        AOS.init();
+        AOS.init({
+            once: true,
+        });
     })
 </script>
 
