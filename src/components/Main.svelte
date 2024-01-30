@@ -18,6 +18,9 @@
                 <button class="rounded-lg p-2 md:p-4 mt-2 md:mt-5 m-2 lg:m-2 bg-zinc-800 hover:bg-zinc-700">
                     <a href="https://discord.gg/WhNVDTF" target="_blank">Join server</a>
                 </button>
+                <button class="rounded-lg p-2 ml-0 md:p-4 mt-2 md:mt-5 m-2 lg:m-2 bg-gray-800 hover:bg-gray-700">
+                    <a href="https://github.com/DTS-11/PizzaHat" target="_blank">⭐ Star the repo</a>
+                </button>
             </div>
         </div>
 
@@ -40,7 +43,7 @@
                     </div>
                     <div class="p-4 md:p-6 bg-zinc-950 border border-indigo-950 rounded-lg" data-aos="fade-left">
                         <h5 class="mb-2 text-lg md:text-2xl font-bold tracking-tight">Commands</h5>
-                        <p class="font-normal text-sm md:text-base">100+</p>
+                        <p class="font-normal text-sm md:text-base">150+</p>
                     </div>
                 </div>
             </div>
