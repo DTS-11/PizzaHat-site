@@ -1,5 +1,6 @@
 <script>
     import logo from '$lib/assets/bot-logo.png';
+    import Features from './Features.svelte';
 </script>
 
 <main>
@@ -27,5 +28,13 @@
 
         <img src={logo} alt="logo" draggable="false" class="animate-bounce m-5 w-24 h-24 md:w-60 md:h-60 md:ml-0 md:mr-10 rounded-full order-1 md:order-2">
     </section>
+
+    <!-- BOT FEATURES SECTION -->
+    <!-- <section class="p-4 md:p-10">
+        <div class="mt-5 md:mt-7">
+            <h1 class="font-bold text-4xl md:text-6xl m-5 md:m-10 pb-5 md:pb-10" data-aos="fade-up">Features</h1>
+        </div>
+    </section> -->
+    <Features />
 
 </main>
