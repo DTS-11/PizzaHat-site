@@ -194,48 +194,6 @@
 					</div>
 				</div>
 
-				<!-- POLLS -->
-				<div data-aos="fade-up">
-					<div class="hidden lg:grid grid-cols-7 gap-16">
-						<div
-							class="col-span-3 flex flex-col justify-center items-start text-center lg:text-left"
-						>
-							<h2 class="mx-auto lg:mx-0 font-bold text-[35px] leading-[42px]">Poll Powerhouse</h2>
-							<p class="text-accent_5 text-base my-8 whitespace-pre-line">
-								Unleash the potential of community decision-making with our Polls feature. This
-								robust tool empowers your server members to actively participate in shaping the
-								server's direction.
-							</p>
-						</div>
-						<div class="col-span-4">
-							<img
-								src={polls}
-								alt="polls"
-								class="rounded-xl w-full max-w-[560px] ml-auto mr-auto lg:mr-0 lg:ml-auto"
-							/>
-						</div>
-					</div>
-					<div class="grid lg:hidden grid-cols-1 gap-6">
-						<div class="col-span-4">
-							<img
-								src={polls}
-								alt="polls"
-								class="rounded-xl w-full max-w-[560px] ml-auto mr-auto lg:ml-0 lg:mr-auto"
-							/>
-						</div>
-						<div
-							class="col-span-3 flex flex-col justify-center items-start text-center lg:text-left"
-						>
-							<h2 class="mx-auto lg:mx-0 font-bold text-[35px] leading-[42px]">Poll Powerhouse</h2>
-							<p class="text-accent_5 text-base my-8 whitespace-pre-line">
-								Unleash the potential of community decision-making with our Polls feature. This
-								robust tool empowers your server members to actively participate in shaping the
-								server's direction.
-							</p>
-						</div>
-					</div>
-				</div>
-
 				<!-- GAMES -->
 				<div data-aos="fade-up">
 					<div class="hidden lg:grid grid-cols-7 gap-16">
@@ -283,6 +241,7 @@
 						</div>
 					</div>
 				</div>
+
 				<!-- TAGS -->
 				<div data-aos="fade-up" class="mb-2 md:mb-5">
 					<div class="hidden lg:grid grid-cols-7 gap-16">
@@ -320,6 +279,48 @@
 								Organize and streamline your server's content with our Tags feature. Whether it's
 								quick information, helpful resources, or fun snippets, create custom tags to enhance
 								communication and easily access important content.
+							</p>
+						</div>
+					</div>
+				</div>
+
+				<!-- POLLS -->
+				<div data-aos="fade-up">
+					<div class="hidden lg:grid grid-cols-7 gap-16">
+						<div
+							class="col-span-3 flex flex-col justify-center items-start text-center lg:text-left"
+						>
+							<h2 class="mx-auto lg:mx-0 font-bold text-[35px] leading-[42px]">Poll Powerhouse</h2>
+							<p class="text-accent_5 text-base my-8 whitespace-pre-line">
+								Unleash the potential of community decision-making with our Polls feature. This
+								robust tool empowers your server members to actively participate in shaping the
+								server's direction.
+							</p>
+						</div>
+						<div class="col-span-4">
+							<img
+								src={polls}
+								alt="polls"
+								class="rounded-xl w-full max-w-[560px] ml-auto mr-auto lg:mr-0 lg:ml-auto"
+							/>
+						</div>
+					</div>
+					<div class="grid lg:hidden grid-cols-1 gap-6">
+						<div class="col-span-4">
+							<img
+								src={polls}
+								alt="polls"
+								class="rounded-xl w-full max-w-[560px] ml-auto mr-auto lg:ml-0 lg:mr-auto"
+							/>
+						</div>
+						<div
+							class="col-span-3 flex flex-col justify-center items-start text-center lg:text-left"
+						>
+							<h2 class="mx-auto lg:mx-0 font-bold text-[35px] leading-[42px]">Poll Powerhouse</h2>
+							<p class="text-accent_5 text-base my-8 whitespace-pre-line">
+								Unleash the potential of community decision-making with our Polls feature. This
+								robust tool empowers your server members to actively participate in shaping the
+								server's direction.
 							</p>
 						</div>
 					</div>
