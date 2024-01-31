@@ -30,11 +30,6 @@
     </section>
 
     <!-- BOT FEATURES SECTION -->
-    <!-- <section class="p-4 md:p-10">
-        <div class="mt-5 md:mt-7">
-            <h1 class="font-bold text-4xl md:text-6xl m-5 md:m-10 pb-5 md:pb-10" data-aos="fade-up">Features</h1>
-        </div>
-    </section> -->
     <Features />
 
 </main>
