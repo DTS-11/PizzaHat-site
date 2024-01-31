@@ -16,6 +16,7 @@ export default {
       accent_3: '#4EA699', // button 3 (Contrasting color)
       accent_3_hover: '#7FC2B8', // Lighter shade for hover on Button 3
       accent_4: '#EEEEEE', // text
+      accent_5: '#8E979E', // for paragraphs
     },
   },
   plugins: []
