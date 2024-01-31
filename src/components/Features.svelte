@@ -241,49 +241,6 @@
 						</div>
 					</div>
 				</div>
-
-				<!-- TAGS -->
-				<div data-aos="fade-up" class="mb-2 md:mb-5">
-					<div class="hidden lg:grid grid-cols-7 gap-16">
-						<div
-							class="col-span-3 flex flex-col justify-center items-start text-center lg:text-left"
-						>
-							<h2 class="mx-auto lg:mx-0 font-bold text-[35px] leading-[42px]">Tag Snippets</h2>
-							<p class="text-accent_5 text-base my-8 whitespace-pre-line">
-								Organize and streamline your server's content with our Tags feature. Whether it's
-								quick information, helpful resources, or fun snippets, create custom tags to enhance
-								communication and easily access important content.
-							</p>
-						</div>
-						<div class="col-span-4">
-							<img
-								src={tags1}
-								alt="tags1"
-								class="rounded-xl w-full max-w-[560px] ml-auto mr-auto lg:mr-0 lg:ml-auto"
-							/>
-						</div>
-					</div>
-					<div class="grid lg:hidden grid-cols-1 gap-6">
-						<div class="col-span-4">
-							<img
-								src={tags1}
-								alt="tags1"
-								class="rounded-xl w-full max-w-[560px] ml-auto mr-auto lg:ml-0 lg:mr-auto"
-							/>
-						</div>
-						<div
-							class="col-span-3 flex flex-col justify-center items-start text-center lg:text-left"
-						>
-							<h2 class="mx-auto lg:mx-0 font-bold text-[35px] leading-[42px]">Tag Snippets</h2>
-							<p class="text-accent_5 text-base my-8 whitespace-pre-line">
-								Organize and streamline your server's content with our Tags feature. Whether it's
-								quick information, helpful resources, or fun snippets, create custom tags to enhance
-								communication and easily access important content.
-							</p>
-						</div>
-					</div>
-				</div>
-
 				<!-- POLLS -->
 				<div data-aos="fade-up">
 					<div class="hidden lg:grid grid-cols-7 gap-16">
@@ -326,6 +283,52 @@
 					</div>
 				</div>
 
+                <!-- TAGS -->
+				<div data-aos="fade-up">
+					<div class="hidden lg:grid grid-cols-7 gap-16">
+						<div class="col-span-4">
+							<img
+								src={tags1}
+								alt="games"
+								class="rounded-xl w-full max-w-[560px] ml-auto mr-auto lg:ml-0 lg:mr-auto"
+							/>
+						</div>
+						<div
+							class="col-span-3 flex flex-col justify-center items-start text-center lg:text-left"
+						>
+							<h2 class="mx-auto lg:mx-0 font-bold text-[35px] leading-[42px]">
+								Tag Snippets
+							</h2>
+							<p class="text-accent_5 text-base my-8 whitespace-pre-line">
+								Organize and streamline your server's content with our Tags feature. Whether it's
+								quick information, helpful resources, or fun snippets, create custom tags to enhance
+								communication and easily access important content.
+							</p>
+						</div>
+					</div>
+					<div class="grid lg:hidden grid-cols-1 gap-6">
+						<div class="col-span-4">
+							<img
+								src={tags1}
+								alt="tags1"
+								class="rounded-xl w-full max-w-[560px] ml-auto mr-auto lg:ml-0 lg:mr-auto"
+							/>
+						</div>
+						<div
+							class="col-span-3 flex flex-col justify-center items-start text-center lg:text-left"
+						>
+							<h2 class="mx-auto lg:mx-0 font-bold text-[35px] leading-[42px]">
+								Tag Snippets
+							</h2>
+							<p class="text-accent_5 text-base my-8 whitespace-pre-line">
+								Organize and streamline your server's content with our Tags feature. Whether it's
+								quick information, helpful resources, or fun snippets, create custom tags to enhance
+								communication and easily access important content.
+							</p>
+						</div>
+					</div>
+				</div>
+                
 				<!-- MORE -->
 				<div data-aos="fade-up">
 					<h3 class="p-0 md:p-0 m-0 md:m-0 font-semibold text-3xl md:text-4xl text-center">
