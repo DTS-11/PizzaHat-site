@@ -5,7 +5,7 @@
 	import logging from '$lib/assets/logging.png';
 	import games from '$lib/assets/games.png';
 	import polls from '$lib/assets/polls.png';
-	import tags1 from '$lib/assets/tags1.png';
+	import tags1 from '$lib/assets/tags.png';
 </script>
 
 <section class="p-4 md:p-10">
